@@ -1,0 +1,62 @@
+/* Custom styles */
+body {
+    background-image: url('../wallpaper.jpg');
+
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+  }
+
+  h1 {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0); /* Fondo semitransparente para las tarjetas */
+    backdrop-filter: blur(60px);
+
+  }
+
+  h4 {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0); /* Fondo semitransparente para las tarjetas */
+    backdrop-filter: blur(60px);
+
+  }
+  
+  .input-group {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .btn-primary {
+    margin-left: 10px;
+  }
+  
+  .card {
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(60px);
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-img-top {
+    width: 100%;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-text {
+    margin-bottom: 0.5rem;
+  }
+  
